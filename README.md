@@ -1,3 +1,5 @@
+
+rocketmq本地事务的demo
 操作步骤
 
 1、修改application-dev.yml中数据库连接为你本地连接地址
